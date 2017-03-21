@@ -56,7 +56,6 @@ public class MainActivityDrawer extends AppCompatActivity {
     NavigationView mNavigationView;
     FragmentManager mFragmentManager;
     FragmentTransaction mFragmentTransaction;
-    private FloatingActionButton fab;
    public Toolbar toolbar;
 
     private static final int PERMISSION_REQUEST_CODE = 200;
@@ -97,14 +96,7 @@ public class MainActivityDrawer extends AppCompatActivity {
         /**
          * Setup click events on the Navigation View Items.
          */
-        fab = (FloatingActionButton) findViewById(R.id.fab);
-        fab.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-               /* Intent intent = new Intent(MainActivityDrawer.this, ForumMainActivity.class);
-                startActivity(intent);*/
-            }
-        });
+
 
 
         mNavigationView.setNavigationItemSelectedListener(new NavigationView.OnNavigationItemSelectedListener() {
