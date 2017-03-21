@@ -49,7 +49,7 @@
        />
 
         <TextView
-            android:text="“ Health Is a Real Wealth; We Should Take Care Of It On Daily Basis. We Should Eat Right And Healthy, Practice Necessary Exercises And Follow Healthy Lifestyle To Always Remain Fit.”"
+            android:text="“ Health Is a Real Wealth: We Should Take Care Of It On Daily Basis. We Should Eat Right And Healthy, Practice Necessary Exercises And Follow Healthy Lifestyle To Always Remain Fit.”"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
