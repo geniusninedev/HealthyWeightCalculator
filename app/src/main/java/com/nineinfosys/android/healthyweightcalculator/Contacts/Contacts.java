@@ -1,4 +1,4 @@
-package com.nineinfosys.android.healthyweightcalculator.Login;
+package com.nineinfosys.android.healthyweightcalculator.Contacts;
 
 /**
  * Created by Dev on 13-03-2017.
